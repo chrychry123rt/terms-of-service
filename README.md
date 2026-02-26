@@ -94,7 +94,8 @@ Cross-trading is strictly forbidden **for any user with no exception** and will 
 - Statetaliadex collects minimal user data necessary for its functionality. We do not share this data with third parties.
 - Do not share personal information, including passwords, addresses, or financial details, through the bot.
 
-A more detailed privacy policy that details what data is collected is available at [this link](https://gist.github.com/laggron42/1eaa122013120cdfcc6d27f9485fe0bf).
+A more detailed privacy policy that details what data is collected is available at [this link](https://gist.github.com/laggron42/1eaa122013120cdfcc6d27f9485fe0bfhttps://github.com/chrychry123rt/terms-of-service/tree/main).
+
 
 ## **6. Moderation:**
 #### **Authority of Bot Administrators and Moderators**
